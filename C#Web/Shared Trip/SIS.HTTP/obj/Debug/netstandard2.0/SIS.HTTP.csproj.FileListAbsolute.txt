@@ -1,0 +1,8 @@
+C:\Users\Valentin\Desktop\Exam\01. Shared Trip_Resources\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
+C:\Users\Valentin\Desktop\Exam\01. Shared Trip_Resources\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Valentin\Desktop\Exam\01. Shared Trip_Resources\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\Valentin\Desktop\Exam\01. Shared Trip_Resources\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+C:\Users\Valentin\Desktop\Exam\01. Shared Trip_Resources\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\Exam\01. Shared Trip_Resources\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\Exam\01. Shared Trip_Resources\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\Valentin\Desktop\Exam\01. Shared Trip_Resources\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb
